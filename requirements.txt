@@ -1,0 +1,6 @@
+flask==3.0.0
+pywebview==4.4.1
+Werkzeug==3.0.1
+pipreqs==0.4.13
+yarg==0.1.9
+docopt==0.6.2
